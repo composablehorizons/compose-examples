@@ -1,4 +1,4 @@
-# Composables UI public repo
+# Composables UI User feedback repository
 
 This repository it used as a central place for user feedback, issues and suggestions for https://composablesui.com
 

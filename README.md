@@ -6,3 +6,5 @@ Feel free to [Open a new issue](https://github.com/composablehorizons/composable
 - 🐛 You found a bug on any component or on the website
 - 🙏 Have an suggestion or idea for a new component
 - 🤔 Have any questions about Composables UI
+
+Do not forget to vote on components you want to see by 👍 reacting to it with an emoji.

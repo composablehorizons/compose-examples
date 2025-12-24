@@ -1,3 +1,7 @@
+## This repo is archived. Join the Composables Discord server instead: https://composables.com/discord
+
+---
+
 # Compose Examples User feedback repository
 
 This repository it used as a central place for user feedback, issues and suggestions for https://composeexamples.com
